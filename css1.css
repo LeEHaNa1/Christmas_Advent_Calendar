@@ -1,5 +1,5 @@
 .fullscreen {
-    width: 100%;
+    width: auto;
     height: auto;
     position: fixed;
     background-image: url(img/pxfuel.jpg);
