@@ -87,7 +87,7 @@ p:hover {
 .santa {
     position: absolute;
     left: 1500px;
-    top: 60px;
+    top: 40px;
     font-size: 90px
 }
 
@@ -103,7 +103,7 @@ p:hover {
     font-style: oblique;
     text-align: center;
     font-size: 20px;
-    top: -30px;
+    top: -50px;
     font-weight: 550;
     padding-top: 10px;
 }
